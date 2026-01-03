@@ -64,7 +64,7 @@
                 {
                     "type": "git",
                     "url": "https://github.com/catchorg/Catch2.git",
-                    "tag": "v2.13.8"
+                    "tag": "v3.10.0"
                 }
             ]
         },
@@ -155,8 +155,8 @@
                 {
                     "type": "git",
                     "url": "https://github.com/TrenchBroom/TrenchBroom.git",
-                    "commit": "4a58e6b6b287137de7fe6d736a8c5e57f1b1209d",
-                    "tag": "v2025.3"
+                    "commit": "c3aa9586ac93c55deca4801044f3a32258bc2c1e",
+                    "tag": "v2025.4"
                 },
                 {
                     "type": "patch",
