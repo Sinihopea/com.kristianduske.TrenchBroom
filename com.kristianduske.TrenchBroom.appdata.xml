@@ -35,6 +35,22 @@
   <content_rating type="oars-1.1"/>
   <update_contact>kristian.duske@gmail.com</update_contact>
   <releases>
+    <release version="2025.4" date="2026-01-02">
+      <url type="details">https://github.com/TrenchBroom/TrenchBroom/releases/tag/v2025.4</url>
+      <description>
+        <ul>
+          <li>Fix enabled state of vertex snapping menu entries</li>
+          <li>Fix disappearing entity links when using included FGD files</li>
+          <li>Fix entity definition shortcuts not working after creating or loading a map</li>
+          <li>Various performance improvements</li>
+          <li>Enable rotating and scaling vertices</li>
+          <li>Add support for target_destination and target_source property types</li>
+          <li>Add "Rename Selected Groups" to Groups menu</li>
+          <li>Implementation for FGD colour types</li>
+        </ul>
+        <p>For the rest of the release notes, check the link below</p>
+      </description>
+    </release>
     <release version="2025.3" date="2025-05-25">
       <url type="details">https://github.com/TrenchBroom/TrenchBroom/releases/tag/v2025.3</url>
       <description>
